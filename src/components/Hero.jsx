@@ -109,7 +109,7 @@ const Hero = () => {
               <div className="text-red-500 mb-2 flex justify-center">
                 <Zap size={32} />
               </div>
-              <div className="text-3xl font-bold text-white mb-1">39</div>
+              <div className="text-3xl font-bold text-white mb-1">41</div>
               <div className="text-gray-400 text-sm">Années d'Excellence</div>
             </motion.div>
           </motion.div>

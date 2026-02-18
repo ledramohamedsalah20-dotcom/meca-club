@@ -63,8 +63,11 @@ const InscriptionForms = () => {
     'Technique',
     'Training',
     'Marketing',
-    'Media'
-  ];
+    'Media',
+    'Design',
+    'Evenementiel',
+
+    ];
 
 
   // Soumission formulaire général
