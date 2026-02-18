@@ -9,7 +9,7 @@ const InscriptionForms = () => {
 
   // URLs Google Sheets
   const SHEET1_URL = 'https://script.google.com/macros/s/AKfycbzZx7StfOmO58tn50cs0CwNpj2VGrbIbQ5MER-9ohwWClM7ynZR1kkj0Thpslnmb_nT/exec';
-  const SHEET2_URL = 'https://script.google.com/macros/s/AKfycbzNFCPPzHv75mXAiKtQKTICFgoA7ERhmF-hYGAqGFDGMzikbhkfNsK2X5DygHunwJqq/exec';
+  const SHEET2_URL = 'https://script.google.com/macros/s/AKfycbyqYkw0oyrugpgKoAXyohEgkPVUtIgYmGMTCW8mBRizAWxb9G8JnQ54k19Y7QPpRlpkpg/exec';
 
   // Vérifier si les inscriptions départements sont ouvertes
   const isDeptsOpen = () => {
