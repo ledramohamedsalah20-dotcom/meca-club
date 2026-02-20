@@ -18,7 +18,7 @@ const Team = () => {
       icon: <Shield size={40} />,
       description: "Coordination et organisation générale",
       color: "from-blue-500 to-cyan-500",
-      email: "dihiaserghane@gmail.com"
+      
     },
     {
       name: "Yani Seghouani",

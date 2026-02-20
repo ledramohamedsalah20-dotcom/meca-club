@@ -34,7 +34,7 @@ const About = () => {
             <h3 className="text-3xl font-bold text-white mb-4">Notre Histoire</h3>
             <p className="text-gray-300 leading-relaxed">
               Depuis <span className="text-cyan-400 font-bold">1985</span>, le MECA CLUB rassemble des étudiants passionnés par la mécanique, 
-              l'électronique, l'automatique, l'informatique et la chimie. Avec plus de <span className="text-cyan-400 font-bold">39 années d'excellence</span>, 
+              l'électronique, l'automatique, l'informatique et la chimie. Avec plus de <span className="text-cyan-400 font-bold">41 années d'excellence</span>, 
               nous continuons de cultiver la curiosité, l'initiative et l'envie d'apprendre.
             </p>
           </motion.div>
